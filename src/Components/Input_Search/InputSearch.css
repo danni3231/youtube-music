@@ -1,0 +1,14 @@
+.inputSearch{
+   padding: 0px 10px;
+   display: flex;
+}
+
+.inputSearch img{
+   width: 30px;
+}
+
+.inputSearch input{
+   color: white;
+   background-color: transparent;
+   border: none;
+}

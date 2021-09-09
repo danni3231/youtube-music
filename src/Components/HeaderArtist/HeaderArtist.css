@@ -1,0 +1,21 @@
+.headerArtist{
+   display: flex;
+   align-items: center;
+   margin-bottom: 30px;
+   height: 8vh;
+}
+
+.headerArtist img {
+   height: 100%;
+   margin-right:  20px;
+   border-radius: 50%;
+}
+
+.headerArtist--name{
+   font-size: 30px;
+   font-weight: bold;
+}
+
+.headerArtist p{
+   margin: 0;
+}

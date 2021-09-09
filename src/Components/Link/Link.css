@@ -1,0 +1,15 @@
+.link{
+   color: #787878;
+   text-decoration:none;
+   padding: 0px 10px;
+}
+
+.link--active{
+   color: #ffffff !important;
+}
+
+
+.link:visited{
+   color: #787878;
+}
+
